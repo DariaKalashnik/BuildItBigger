@@ -1,0 +1,4 @@
+<resources>
+    <!-- Font Sizes -->
+    <dimen name="dimen_16sp">16sp</dimen>
+</resources>
